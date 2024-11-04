@@ -2,12 +2,19 @@
 name = "skrab"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Kasper Junge <kasperjuunge@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+typer = "^0.12.5"
+aiohttp = "^3.10.10"
+requests = "^2.32.3"
+pandas = "^2.2.3"
+tqdm = "^4.66.6"
 
+[tool.poetry.scripts]
+skrab = "skrab.cli:app"
 
 [build-system]
 requires = ["poetry-core"]
