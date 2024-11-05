@@ -25,5 +25,5 @@ skrab boliga data/boliga_listings.csv
 This command will save Boliga listings to data/boliga_listings.csv.
 
 ## Extending Skrab
-
+Coming soon..
 
