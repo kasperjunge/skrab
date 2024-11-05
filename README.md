@@ -1,4 +1,4 @@
-# Skrab
+# Skrab 🪒
 ## Overview
 Skrab is a simple CLI and Python package for scraping various types of Danish data mainly for hobbyist use. The package is designed for flexibility, enabling you to contribute new scrapers and data sources as needed. With Skrab, you can build customized scrapers to collect data from public and private Danish resources and save it for analysis.
 
